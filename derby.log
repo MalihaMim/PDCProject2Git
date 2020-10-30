@@ -1,0 +1,31 @@
+Fri Oct 30 03:07:12 NZDT 2020 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Fri Oct 30 03:07:13 NZDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0175-74af-15b5-ffffb6b344a3 
+on database directory C:\Users\jenni\OneDrive - AUT University\COMP603\Part2_GUI\QuestionsDatabase with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\jenni\OneDrive - AUT University\COMP603\Part2_GUI
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Oct 30 03:07:14 NZDT 2020:
+Shutting down instance a816c00e-0175-74af-15b5-ffffb6b344a3 on database directory C:\Users\jenni\OneDrive - AUT University\COMP603\Part2_GUI\QuestionsDatabase with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Fri Oct 30 03:07:14 NZDT 2020 Thread[DRDAConnThread_3,5,main] (DATABASE = QuestionsDatabase), (DRDAID = {2}), Database 'QuestionsDatabase' shutdown.
+----------------------------------------------------------------
+Fri Oct 30 03:07:17 NZDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6ede40af-0175-74af-15b5-ffffb6b344a3 
+on database directory C:\Users\jenni\OneDrive - AUT University\COMP603\Part2_GUI\QuestionsDatabase with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\jenni\OneDrive - AUT University\COMP603\Part2_GUI
+Database Class Loader started - derby.database.classpath=''
